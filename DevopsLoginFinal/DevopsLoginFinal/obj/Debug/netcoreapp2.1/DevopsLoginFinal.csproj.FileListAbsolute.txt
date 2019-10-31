@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsLoginFinal\bin\Debug\netcoreapp2.1\DevopsLoginFinal.deps.json
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsLoginFinal\bin\Debug\netcoreapp2.1\DevopsLoginFinal.runtimeconfig.json
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsLoginFinal\bin\Debug\netcoreapp2.1\DevopsLoginFinal.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsLoginFinal\bin\Debug\netcoreapp2.1\DevopsLoginFinal.dll
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsLoginFinal\bin\Debug\netcoreapp2.1\DevopsLoginFinal.pdb
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsLoginFinal\obj\Debug\netcoreapp2.1\DevopsLoginFinal.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsLoginFinal\obj\Debug\netcoreapp2.1\DevopsLoginFinal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsLoginFinal\obj\Debug\netcoreapp2.1\DevopsLoginFinal.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsLoginFinal\obj\Debug\netcoreapp2.1\DevopsLoginFinal.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsLoginFinal\obj\Debug\netcoreapp2.1\DevopsLoginFinal.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsLoginFinal\obj\Debug\netcoreapp2.1\DevopsLoginFinal.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsLoginFinal\obj\Debug\netcoreapp2.1\DevopsLoginFinal.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsLoginFinal\obj\Debug\netcoreapp2.1\DevopsLoginFinal.dll
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsLoginFinal\obj\Debug\netcoreapp2.1\DevopsLoginFinal.pdb

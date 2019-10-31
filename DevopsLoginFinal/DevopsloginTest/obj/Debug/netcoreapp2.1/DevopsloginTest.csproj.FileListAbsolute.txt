@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\bin\Debug\netcoreapp2.1\DevopsloginTest.deps.json
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\bin\Debug\netcoreapp2.1\DevopsloginTest.runtimeconfig.json
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\bin\Debug\netcoreapp2.1\DevopsloginTest.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\bin\Debug\netcoreapp2.1\DevopsloginTest.dll
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\bin\Debug\netcoreapp2.1\DevopsloginTest.pdb
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\bin\Debug\netcoreapp2.1\DevopsLoginFinal.dll
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\bin\Debug\netcoreapp2.1\DevopsLoginFinal.pdb
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\obj\Debug\netcoreapp2.1\DevopsloginTest.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\obj\Debug\netcoreapp2.1\DevopsloginTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\obj\Debug\netcoreapp2.1\DevopsloginTest.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\obj\Debug\netcoreapp2.1\DevopsloginTest.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\obj\Debug\netcoreapp2.1\DevopsloginTest.csproj.CopyComplete
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\obj\Debug\netcoreapp2.1\DevopsloginTest.dll
+C:\Users\Admin\source\repos\DevopsLoginFinal\DevopsloginTest\obj\Debug\netcoreapp2.1\DevopsloginTest.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevopsLoginFinal", "DevopsLoginFinal\DevopsLoginFinal.csproj", "{23FAABA8-9217-4908-A0A8-E7A732B4CDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevopsloginTest", "DevopsloginTest\DevopsloginTest.csproj", "{91F44F45-B337-4E58-B5B4-9FD9663AC5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FAABA8-9217-4908-A0A8-E7A732B4CDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FAABA8-9217-4908-A0A8-E7A732B4CDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FAABA8-9217-4908-A0A8-E7A732B4CDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FAABA8-9217-4908-A0A8-E7A732B4CDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F44F45-B337-4E58-B5B4-9FD9663AC5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F44F45-B337-4E58-B5B4-9FD9663AC5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F44F45-B337-4E58-B5B4-9FD9663AC5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F44F45-B337-4E58-B5B4-9FD9663AC5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {912E695B-B0ED-4B7C-A8A5-E809418686B1}
+	EndGlobalSection
+EndGlobal
